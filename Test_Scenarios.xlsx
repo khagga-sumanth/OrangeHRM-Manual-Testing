@@ -1,0 +1,7 @@
+| Scenario ID | Module    | Test Scenario          |
+| ----------- | --------- | ---------------------- |
+| TS001       | Login     | Verify valid login     |
+| TS002       | Login     | Verify invalid login   |
+| TS003       | Dashboard | Verify dashboard loads |
+| TS004       | Leave     | Verify leave request   |
+| TS005       | PIM       | Verify employee search |
