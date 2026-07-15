@@ -1,0 +1,32 @@
+Project:
+OrangeHRM
+
+Total Test Cases:
+75
+
+Executed:
+75
+
+Passed:
+70
+
+Failed:
+5
+
+Blocked:
+0
+
+Total Bugs:
+12
+
+Critical Bugs:
+2
+
+Medium Bugs:
+5
+
+Low Bugs:
+5
+
+Conclusion:
+Testing completed successfully. Application is stable for release after fixing critical defects.
