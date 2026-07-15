@@ -1,0 +1,5 @@
+| TC ID | Module | Test Case        | Steps                             | Expected Result           | Actual Result | Status |
+| ----- | ------ | ---------------- | --------------------------------- | ------------------------- | ------------- | ------ |
+| TC001 | Login  | Valid Login      | Enter valid username and password | User logs in successfully | Pass          | Pass   |
+| TC002 | Login  | Invalid Password | Enter wrong password              | Error message displayed   | Pass          | Pass   |
+| TC003 | Login  | Empty Username   | Leave username blank              | Validation message shown  | Pass          | Pass   |
