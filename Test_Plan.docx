@@ -1,0 +1,36 @@
+Project Name:
+OrangeHRM Manual Testing
+
+Version:
+1.0
+
+Prepared By:
+Sumanth Khagga
+
+Objective:
+To verify that the OrangeHRM application functions correctly.
+
+Scope:
+- Login
+- Dashboard
+- PIM
+- Leave
+- Recruitment
+
+Testing Types:
+- Functional Testing
+- Smoke Testing
+- Regression Testing
+- UI Testing
+
+Entry Criteria:
+- Application is deployed
+- Test environment is ready
+
+Exit Criteria:
+- All critical defects are resolved
+
+Tools Used:
+- Excel
+- Word
+- Jira
