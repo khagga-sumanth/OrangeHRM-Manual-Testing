@@ -1,0 +1,5 @@
+| Bug ID | Module    | Description              | Severity | Priority | Status |
+| ------ | --------- | ------------------------ | -------- | -------- | ------ |
+| BUG001 | Login     | Login button not working | High     | High     | Open   |
+| BUG002 | Leave     | Calendar overlaps text   | Medium   | Medium   | Open   |
+| BUG003 | Dashboard | Wrong page title         | Low      | Low      | Fixed  |
