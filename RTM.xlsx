@@ -1,0 +1,5 @@
+| Requirement ID | Requirement       | Test Case ID        | Status  |
+| -------------- | ----------------- | ------------------- | ------- |
+| R001           | User Login        | TC001, TC002, TC003 | Covered |
+| R002           | Employee Search   | TC020, TC021        | Covered |
+| R003           | Leave Application | TC035, TC036        | Covered |
